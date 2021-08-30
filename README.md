@@ -1,2 +1,3 @@
 # ChatRoom
-a ChatRoom
+*一个聊天室软件*
+> 支持局域网，广域网
